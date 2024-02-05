@@ -1,3 +1,3 @@
-# UNP_Project_MS_EXCEL_AW_DATA
+# UNP_PROJECT_MS_EXCEL_AW_DATA
 Key Highlights:- Expertly converted Adventure Works' expansive dataset into a dynamic and insightful Excel dashboard, skillfully utilizing charts, graphs, and conditional formatting for a compelling and user-friendly presentation of data. Crafted an intuitive dashboard interface accessible to users of varying expertise levels within the organization. Effectively visualized Key Performance Indicators (KPIs) in a format that delivers a swift overview of the company's performance. Applied pertinent Excel functions and formulas to optimize and structure the data, ensuring seamless and impactful visualization.
 powerpoint link: https://www.canva.com/design/DAF76XamNPQ/nveGDVCS7Eq8eYWCwmRX9w/edit?utm_content=DAF76XamNPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
